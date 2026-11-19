@@ -1,6 +1,6 @@
 <img width="2048" height="768" alt="Lavender Dream Developer Banner" src="https://github.com/user-attachments/assets/29157b3d-ae24-4f3d-aaf4-bd0ca5931814" />
 
-                                                    ⋆. 𐙚˚࿔ Samia Akhter 𝜗𝜚˚⋆
+<p align="center">⋆. 𐙚˚࿔ Samia Akhter 𝜗𝜚˚⋆</p>
 
 # Hi there! ₍ᐢ..ᐢ₎♡
 
@@ -10,7 +10,7 @@
 
 I'm a Computer Science & Engineering student who enjoys exploring the world of programming, experimenting with new technologies, and turning ideas into projects. I love adding little creative and cute touches to my work to make things feel more alive! Currently focused on building more projects, learning along the way, and continuously improving my skills.
 
-                                                             ⢏⢢⣀⡔⡹
+<p align="center">⢏⢢⣀⡔⡹</p>
 
 ### ⋆˚𝜗𝜚˚⋆ Languages & Technologies
 
@@ -31,7 +31,7 @@ I'm a Computer Science & Engineering student who enjoys exploring the world of p
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-                                                      °‧ 𓆝 𓆟 𓆞 ·｡
+<p align="center">°‧ 𓆝 𓆟 𓆞 ·｡</p>
 
 
 <h2 align="center">📊 GitHub Statistics</h2>
