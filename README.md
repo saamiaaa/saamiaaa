@@ -1,61 +1,114 @@
-<img width="2048" height="768" alt="Lavender Dream Developer Banner" src="https://github.com/user-attachments/assets/29157b3d-ae24-4f3d-aaf4-bd0ca5931814" />
+<div align="center">
 
-<p align="center">⋆. 𐙚˚࿔ Samia Akhter 𝜗𝜚˚⋆</p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · saamiaaa</sub></p>
+<h1>Samia Akhter</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>coding stuffs that are cute ⪩. .⪨</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Chittagong, Bangladesh</sub></p>
+<p><a href="https://github.com/saamiaaa">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/237546782?u=2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1&amp;v=4" width="180" alt="Samia Akhter GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-# Hi there! ₍ᐢ..ᐢ₎♡
+<h2>What teams can evaluate quickly</h2>
 
-### CSE Student | Designer | Developer 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · CSS · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>7 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>35 contributions · 11 active days</p></td>
+</tr>
+</table>
 
-### ᥫ᭡ About Me
+<p><sub>coding stuffs that are cute ⪩. .⪨</sub></p>
 
-I'm a Computer Science & Engineering student who enjoys exploring the world of programming, experimenting with new technologies, and turning ideas into projects. I love adding little creative and cute touches to my work to make things feel more alive! Currently focused on building more projects, learning along the way, and continuously improving my skills.
+<h2>Proof at a glance</h2>
 
-<p align="center">⢏⢢⣀⡔⡹</p>
-
-### ⋆˚𝜗𝜚˚⋆ Programming Languages 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### >⩊< Frameworks & Libraries
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-### .☘︎ ݁˖ Tools I use
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<p align="center">°‧ 𓆝 𓆟 𓆞 ·｡</p>
-
-
-<h2 align="center">📊 GitHub Statistics</h2>
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>7</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>35</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saamiaaa&show_icons=true&hide_border=true&bg_color=F5EEFF&title_color=9B72CF&text_color=76558F&icon_color=D88DBD" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamiaaa&layout=compact&hide_border=true&bg_color=F5EEFF&title_color=9B72CF&text_color=76558F" height="165" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Samia Akhter GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&repos=saamiaaa%2FOnkur%2Csaamiaaa%2FAl-Dengue-system%2Csaamiaaa%2Fsaamiaaa%2Csaamiaaa%2FCurrency-Converter&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&repos=saamiaaa%2FOnkur%2Csaamiaaa%2FAl-Dengue-system%2Csaamiaaa%2Fsaamiaaa%2Csaamiaaa%2FCurrency-Converter&v=recruiter-projects-1&mode=dark" width="100%" alt="Samia Akhter selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/saamiaaa/Onkur">Onkur</a></h3>
+<p>An AI-powered student development and connection platform.</p>
+<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/saamiaaa/Onkur">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/saamiaaa/Al-Dengue-system">Al-Dengue-system</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/saamiaaa/saamiaaa">saamiaaa</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/saamiaaa/Currency-Converter">Currency-Converter</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saamiaaa&hide_border=true&background=F5EEFF&ring=9B72CF&fire=D88DBD&currStreakLabel=9B72CF&sideLabels=76558F&currStreakNum=76558F&sideNums=76558F&dates=9B72CF" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Samia Akhter technology stack" />
+</picture>
 </p>
 
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>68% of public code</sub></td>
+<td width="25%" align="center"><strong>CSS</strong><br /><sub>27% of public code</sub></td>
+<td width="25%" align="center"><strong>Python</strong><br /><sub>3% of public code</sub></td>
+<td width="25%" align="center"><strong>HTML</strong><br /><sub>2% of public code</sub></td>
+</tr>
+</table>
 
+<h2>Consistency signal</h2>
 
-<p align="center">*"A little creativity, a little code, and a lot of curiosity."* 𓂃🪶</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=saamiaaa&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F237546782%3Fu%3D2c65d99f64fa6c80802a5f8da7fa02759ea8e3b1%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Samia Akhter contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/saamiaaa">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Samia Akhter · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
