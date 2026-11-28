@@ -1,61 +1,140 @@
-<img width="2048" height="768" alt="Lavender Dream Developer Banner" src="https://github.com/user-attachments/assets/29157b3d-ae24-4f3d-aaf4-bd0ca5931814" />
-
-<p align="center">⋆. 𐙚˚࿔ Samia Akhter 𝜗𝜚˚⋆</p>
-
-# Hi there! ₍ᐢ..ᐢ₎♡
-
-### CSE Student | Designer | Developer 
-
-### ᥫ᭡ About Me
-
-I'm a Computer Science & Engineering student who enjoys exploring the world of programming, experimenting with new technologies, and turning ideas into projects. I love adding little creative and cute touches to my work to make things feel more alive! Currently focused on building more projects, learning along the way, and continuously improving my skills.
-
-<p align="center">⢏⢢⣀⡔⡹</p>
-
-### ⋆˚𝜗𝜚˚⋆ Programming Languages 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### >⩊< Frameworks & Libraries
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-### .☘︎ ݁˖ Tools I use
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<p align="center">°‧ 𓆝 𓆟 𓆞 ·｡</p>
-
-
-<h2 align="center">📊 GitHub Statistics</h2>
+# ⋆｡°✩ Samia Akhter ୨୧
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saamiaaa&show_icons=true&hide_border=true&bg_color=F5EEFF&title_color=9B72CF&text_color=76558F&icon_color=D88DBD" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamiaaa&layout=compact&hide_border=true&bg_color=F5EEFF&title_color=9B72CF&text_color=76558F" height="165" />
+  <img src="https://github.com/user-attachments/assets/29157b3d-ae24-4f3d-aaf4-bd0ca5931814" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saamiaaa&hide_border=true&background=F5EEFF&ring=9B72CF&fire=D88DBD&currStreakLabel=9B72CF&sideLabels=76558F&currStreakNum=76558F&sideNums=76558F&dates=9B72CF" />
+  <i>「 coding stuffs that are cute ⪩. .⪨ 」</i>
 </p>
 
+<p align="center">
+  <b>CSE Student · Designer · Developer</b>
+</p>
 
+---
 
-<p align="center">*"A little creativity, a little code, and a lot of curiosity."* 𓂃🪶</p>
+### ୨୧ `hello_world();`
+
+Hi there! I'm Samia, a 2nd-year Computer Science & Engineering student who loves turning ideas into code. I'm interested in software development, AI/ML, UI/UX design, and building things that are both useful and fun.
+
+- 🎀 Exploring the world of tech, one project at a time
+- 💻 Building projects and learning by doing
+- 🤖 Interested in AI, machine learning & robotics
+- 🎨 I love adding a little creativity to everything I build
+
+### ୨୧ `tech_stack.json`
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e8c8dc?style=for-the-badge&logo=html5&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/CSS3-e8c8dc?style=for-the-badge&logo=css3&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/JavaScript-e8c8dc?style=for-the-badge&logo=javascript&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/C-e8c8dc?style=for-the-badge&logo=c&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/C++-e8c8dc?style=for-the-badge&logo=cplusplus&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/Java-e8c8dc?style=for-the-badge&logo=openjdk&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/Python-e8c8dc?style=for-the-badge&logo=python&logoColor=7b4966"/>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-dcccf0?style=for-the-badge&logo=nextdotjs&logoColor=755a91"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-dcccf0?style=for-the-badge&logo=tailwindcss&logoColor=755a91"/>
+  <img src="https://img.shields.io/badge/FastAPI-dcccf0?style=for-the-badge&logo=fastapi&logoColor=755a91"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-dcccf0?style=for-the-badge&logo=scikitlearn&logoColor=755a91"/>
+  <img src="https://img.shields.io/badge/Pandas-dcccf0?style=for-the-badge&logo=pandas&logoColor=755a91"/>
+  <img src="https://img.shields.io/badge/NumPy-dcccf0?style=for-the-badge&logo=numpy&logoColor=755a91"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-e8c8dc?style=for-the-badge&logo=mongodb&logoColor=7b4966"/>
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-f3dce8?style=for-the-badge&logo=git&logoColor=9b5d78"/>
+  <img src="https://img.shields.io/badge/GitHub-f3dce8?style=for-the-badge&logo=github&logoColor=9b5d78"/>
+  <img src="https://img.shields.io/badge/VS_Code-f3dce8?style=for-the-badge&logo=visualstudiocode&logoColor=9b5d78"/>
+  <img src="https://img.shields.io/badge/Eclipse-e8c8dc?style=for-the-badge&logo=eclipseide&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/CodeBlocks-e8c8dc?style=for-the-badge&logo=codeblocks&logoColor=7b4966"/>
+  <img src="https://img.shields.io/badge/Figma-f3dce8?style=for-the-badge&logo=figma&logoColor=9b5d78"/>
+</p>
+
+---
+
+### ୨୧ `projects/`
+
+<p align="center">
+  <i>some things I've built, some bugs I've fixed, and lots of lessons learned ♡</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>𓍢ִ໋🌷͙֒ DengueSense</h3>
+      <p><code>AI / ML · Python · FastAPI</code></p>
+      An AI-powered dengue outbreak prediction system developed during the EDU AI Engineering Hackathon. Uses machine learning to forecast dengue cases at different ward levels.
+      <br/><br/>
+      <a href="https://github.com/saamiaaa/Al-Dengue-system">⌗ explore repository →</a>
+    </td>
+    <td width="50%">
+      <h3>𓍢ִ໋🌷͙֒ Onkur</h3>
+      <p><code>Full-Stack · AI · Web Development</code></p>
+      An AI-powered student development platform created for Code Arena X Hackathon, designed to help students explore universities, careers, and opportunities.
+      <br/><br/>
+      <a href="https://github.com/saamiaaa/Onkur">⌗ explore repository →</a>
+    </td>
+  </tr>
+</table>
+
+### ୨୧ `currently_learning.log`
+
+```python
+while True:
+    learn_something_new()
+    build_projects()
+    make_mistakes()
+    debug()
+    repeat()
+```
+
+### ୨୧ `github_stats/`
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saamiaaa&show_icons=true&theme=default&bg_color=fff7fb&title_color=b77da5&icon_color=c99bc2&text_color=806b7a&border_color=ead7e5&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saamiaaa&layout=compact&theme=default&bg_color=fff7fb&title_color=b77da5&text_color=806b7a&border_color=ead7e5" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saamiaaa&theme=default&background=fff7fb&ring=b77da5&fire=c99bc2&currStreakLabel=b77da5&sideLabels=806b7a&dates=aa94a2&border=ead7e5" />
+</p>
+
+### ୨୧ `find_me.exe`
+
+<p align="center">
+  <a href="mailto:samiaaakterr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-e8c8dc?style=for-the-badge&logo=gmail&logoColor=7b4966"/>
+</a>
+  <a href="https://www.linkedin.com/in/samiaakhter">
+    <img src="https://img.shields.io/badge/LinkedIn-e8c8dc?style=for-the-badge&logo=linkedin&logoColor=7b4966"/>
+  </a>
+  <a href="https://www.behance.net/saamiaaa">
+    <img src="https://img.shields.io/badge/Behance-dcccf0?style=for-the-badge&logo=behance&logoColor=755a91"/>
+  </a>
+  <a href="https://github.com/saamiaaa">
+    <img src="https://img.shields.io/badge/GitHub-f3dce8?style=for-the-badge&logo=github&logoColor=9b5d78"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>♡ thanks for stopping by! happy coding! ♡</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8c8dc&height=100&section=footer"/>
+</p>
